@@ -10,4 +10,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.14.0",
+    "webpack-cli": "^3.0.8"
+  }
 }
